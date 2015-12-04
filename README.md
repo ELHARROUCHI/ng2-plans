@@ -45,7 +45,5 @@
   *NOTE*: could be exceptions like `moment.js` for datepickers, calendar
 12. Badges: npm version, dependencies, codeclimat (rank and coverage, hope they will add typescript soon), build status
 
-# If you get here and have a question welcome to our slack
-- [invitation request form](http://goo.gl/forms/cMLC9GMUEB)
-- [https://ng2.slack.com](https://ng2.slack.com)
+
 
