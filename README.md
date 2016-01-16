@@ -3,7 +3,7 @@
 # List of modules:
 <!-- name, repo link, npm bange, demo link -->
 <!-- should be sorted in alphabed order -->
-- [ng2-bootstrap](https://github.com/valor-software/ng2-bootstrap) [![npm version](https://badge.fury.io/js/ng2-bootstrap.svg)](http://badge.fury.io/js/ng2-bootstrap)
+- Bootstrap 3 and 4 components written in pure Angular2 [ng2-bootstrap](https://github.com/valor-software/ng2-bootstrap) [![npm version](https://badge.fury.io/js/ng2-bootstrap.svg)](http://badge.fury.io/js/ng2-bootstrap) [![github stars](https://img.shields.io/github/stars/valor-software/ng2-bootstrap.svg?style=social&label=Star)](https://github.com/valor-software/ng2-bootstrap)
 - [ng2-charts](https://github.com/valor-software/ng2-charts) [![npm version](https://badge.fury.io/js/ng2-charts.svg)](http://badge.fury.io/js/ng2-charts)
 - [ng2-dragula](https://github.com/valor-software/ng2-dragula) [![npm version](https://badge.fury.io/js/ng2-dragula.svg)](http://badge.fury.io/js/ng2-dragula)
 - [ng2-file-upload](https://github.com/valor-software/ng2-file-upload) [![npm version](https://badge.fury.io/js/ng2-file-upload.svg)](http://badge.fury.io/js/ng2-file-upload)
@@ -41,9 +41,10 @@
   2. if needed, per module will be creaded teams with granted `Team maintainer`
 9. Required badges:
   1. NPM version [![Npm Version](https://badge.fury.io/js/ng2-bootstrap.svg)](http://badge.fury.io/js/ng2-bootstrap)
+  2. Npm Downloads [![npm downloads](https://img.shields.io/npm/dm/ng2-bootstrap.svg)](https://npmjs.org/ng2-bootstrap)
   2. CI build status [![Build Status](https://travis-ci.org/ng2-bootstrap/ng2-bootstrap.svg?branch=master)](https://travis-ci.org/ng2-bootstrap/ng2-bootstrap) 
   3. Test Coverage [![Test Coverage](https://codeclimate.com/github/valor-software/angular2-bootstrap/badges/coverage.svg)](https://codeclimate.com/github/valor-software/angular2-bootstrap/coverage)
-  4. Code quality [![Code Climate](https://codeclimate.com/github/valor-software/ng2-bootstrap/badges/gpa.svg)](https://codeclimate.com/github/valor-software/ng2-bootstrap)
+  4. Code quality [![Code Climate](https://codeclimate.com/github/valor-software/ng2-bootstrap/badges/gpa.svg)](https://codeclimate.com/github/valor-software/ng2-bootstrap) or Bithound [![bitHound Overall Score](https://www.bithound.io/github/valor-software/ng2-bootstrap/badges/score.svg)](https://www.bithound.io/github/valor-software/ng2-bootstrap)
   5. Gitter chat link (to [![Join the chat at https://gitter.im/valor-software/ng2-bootstrap](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/valor-software/ng2-bootstrap?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge))
   6. Dependencies status production and development [![Dependency Status](https://david-dm.org/valor-software/ng2-bootstrap.svg)](https://david-dm.org/valor-software/ng2-bootstrap) [![devDependency Status](https://david-dm.org/valor-software/ng2-bootstrap/dev-status.svg)](https://david-dm.org/valor-software/ng2-bootstrap#info=devDependencies)
   7. Sauce Test Status [![Sauce Test Status](https://saucelabs.com/browser-matrix/angular2-ci.svg)](https://saucelabs.com/u/angular2-ci)
