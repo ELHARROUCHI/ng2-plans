@@ -3,11 +3,15 @@
 # List of modules:
 <!-- name, repo link, npm bange, demo link -->
 <!-- should be sorted in alphabed order -->
-- Bootstrap 3 and 4 components written in pure Angular2 [ng2-bootstrap](https://github.com/valor-software/ng2-bootstrap) [![npm version](https://badge.fury.io/js/ng2-bootstrap.svg)](http://badge.fury.io/js/ng2-bootstrap) [![github stars](https://img.shields.io/github/stars/valor-software/ng2-bootstrap.svg?style=social&label=Star)](https://github.com/valor-software/ng2-bootstrap)
-- [ng2-charts](https://github.com/valor-software/ng2-charts) [![npm version](https://badge.fury.io/js/ng2-charts.svg)](http://badge.fury.io/js/ng2-charts)
-- [ng2-dragula](https://github.com/valor-software/ng2-dragula) [![npm version](https://badge.fury.io/js/ng2-dragula.svg)](http://badge.fury.io/js/ng2-dragula)
-- [ng2-file-upload](https://github.com/valor-software/ng2-file-upload) [![npm version](https://badge.fury.io/js/ng2-file-upload.svg)](http://badge.fury.io/js/ng2-file-upload)
+- [ng2-bootstrap](https://github.com/valor-software/ng2-bootstrap) [![npm version](https://badge.fury.io/js/ng2-bootstrap.svg)](http://badge.fury.io/js/ng2-bootstrap) [![github stars](https://img.shields.io/github/stars/valor-software/ng2-bootstrap.svg?style=social&label=Star)](https://github.com/valor-software/ng2-bootstrap) - Bootstrap 3 and 4 components written in pure Angular2 
+- [ng2-charts](https://github.com/valor-software/ng2-charts) [![npm version](https://badge.fury.io/js/ng2-charts.svg)](http://badge.fury.io/js/ng2-charts) [![github stars](https://img.shields.io/github/stars/valor-software/ng2-charts.svg?style=social&label=Star)](https://github.com/valor-software/ng2-charts)
+- [ng2-dragula](https://github.com/valor-software/ng2-dragula) [![npm version](https://badge.fury.io/js/ng2-dragula.svg)](http://badge.fury.io/js/ng2-dragula) [![github stars](https://img.shields.io/github/stars/valor-software/ng2-dragula.svg?style=social&label=Star)](https://github.com/valor-software/ng2-dragula)
+- [ng2-file-upload](https://github.com/valor-software/ng2-file-upload) [![npm version](https://badge.fury.io/js/ng2-file-upload.svg)](http://badge.fury.io/js/ng2-file-upload) [![github stars](https://img.shields.io/github/stars/valor-software/ng2-file-upload.svg?style=social&label=Star)](https://github.com/valor-software/ng2-file-upload)
+- [ng2-select](https://github.com/valor-software/ng2-select) [![npm version](https://badge.fury.io/js/ng2-select.svg)](http://badge.fury.io/js/ng2-select) [![github stars](https://img.shields.io/github/stars/valor-software/ng2-select.svg?style=social&label=Star)](https://github.com/valor-software/ng2-select)
+- [ng2-table](https://github.com/valor-software/ng2-table) [![npm version](https://badge.fury.io/js/ng2-table.svg)](http://badge.fury.io/js/ng2-table) [![github stars](https://img.shields.io/github/stars/valor-software/ng2-charts.svg?style=social&label=Star)](https://github.com/valor-software/ng2-charts)
+- [ng2-tree](https://github.com/valor-software/ng2-tree) [![npm version](https://badge.fury.io/js/ng2-tree.svg)](http://badge.fury.io/js/ng2-tree) [![github stars](https://img.shields.io/github/stars/valor-software/ng2-tree.svg?style=social&label=Star)](https://github.com/valor-software/ng2-tree)
 
+ 
 <!---
 [ng2-google-maps](https://github.com/valor-software/ng2-google-maps) [![npm version](https://badge.fury.io/js/ng2-google-maps.svg)](http://badge.fury.io/js/ng2-google-maps) 
 - [ng2-grid](https://github.com/valor-software/ng2-grid) [![npm version](https://badge.fury.io/js/ng2-grid.svg)](http://badge.fury.io/js/ng2-grid)
@@ -15,9 +19,6 @@
 - [ng2-infinite-scroll](https://github.com/valor-software/ng2-infinite-scroll) [![npm version](https://badge.fury.io/js/ng2-infinite-scroll.svg)](http://badge.fury.io/js/ng2-infinite-scroll)
 - [ng2-progress](https://github.com/valor-software/ng2-progress) [![npm version](https://badge.fury.io/js/ng2-progress.svg)](http://badge.fury.io/js/ng2-progress)
 --->
-
-- [ng2-select](https://github.com/valor-software/ng2-select) [![npm version](https://badge.fury.io/js/ng2-select.svg)](http://badge.fury.io/js/ng2-select)
-- [ng2-table](https://github.com/valor-software/ng2-table) [![npm version](https://badge.fury.io/js/ng2-table.svg)](http://badge.fury.io/js/ng2-table)
 
 <!--- [ng2-tap](https://github.com/valor-software/ng2-tap) [![npm version](https://badge.fury.io/js/ng2-tap.svg)](http://badge.fury.io/js/ng2-tap)-->
 <!--- [ng2-xeditable](https://github.com/valor-software/ng2-xeditable) [![npm version](https://badge.fury.io/js/ng2-xeditable.svg)](http://badge.fury.io/js/ng2-xeditable)-->
